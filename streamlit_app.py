@@ -3,8 +3,8 @@ import streamlit as st
 
 
 # Write directly to the app
-st.title(":cup_with_straw: Customize Your Smoothie :cup_with_straw:")
-st.write(
+streamlit.title(":cup_with_straw: Customize Your Smoothie :cup_with_straw:")
+streamlit.write(
     """Choose the fruits you want in your custom Smoothie .
     """
 )
